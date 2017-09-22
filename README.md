@@ -1,7 +1,12 @@
 # tabs-toggle package
 
 hidden and displays the menu of tabs to have greater visibility of the code.
-
+# keymaps
+Atom Package keymaps:
+```bash
+ctrl-alt-t
+```
+# install
 Atom Package Manager (APM):
 ```bash
 apm install tabs-toggle
