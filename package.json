@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "tabs-toggle:toggle"
   },
-  "repository": "https://github.com/atom/tabs-toggle",
+  "repository": "https://github.com/luisDanielRoviraContreras/tabs-toggle",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
