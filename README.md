@@ -3,5 +3,5 @@
 hidden and displays the menu of tabs to have greater visibility of the code.
 
 ![](https://imgur.com/a/9rvpc.gif)
-![primer ScreenShot](https://raw.githubusercontent.com/luisDanielRoviraContreras/tabs-toggle/master/screenshots/jsx.jpg)
+![primer ScreenShot](https://github.com/luisDanielRoviraContreras/tabs-toggle/blob/master/screenshots/tabs-toggle.gif)
 # tabs-toggle
