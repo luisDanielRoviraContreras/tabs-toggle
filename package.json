@@ -3,7 +3,13 @@
   "main": "./lib/tabs-toggle",
   "version": "0.14.0",
   "description": "hidden and displays the menu of tabs to have greater visibility of the code",
-  "keywords": [],
+  "keywords": [
+    "tabs",
+    "menu",
+    "toggle",
+    "tab-bar",
+    "tab"
+  ],
   "activationCommands": {
     "atom-workspace": "tabs-toggle:toggle"
   },
