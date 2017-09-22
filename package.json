@@ -1,10 +1,9 @@
 {
   "name": "tabs-toggle",
   "main": "./lib/tabs-toggle",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "hidden and displays the menu of tabs to have greater visibility of the code",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "tabs-toggle:toggle"
   },
