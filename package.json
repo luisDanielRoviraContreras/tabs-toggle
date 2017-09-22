@@ -1,7 +1,7 @@
 {
   "name": "tabs-toggle",
   "main": "./lib/tabs-toggle",
-  "version": "0.11.0",
+  "version": "0.12.0",
   "description": "hidden and displays the menu of tabs to have greater visibility of the code",
   "keywords": [],
   "activationCommands": {
