@@ -7,7 +7,7 @@ Atom Package Manager (APM):
 apm install tabs-toggle
 ```
 # Screenshots
-
+![preview gif](http://i.imgur.com/zdzpBnd.gif)
 [Imgur](https://i.imgur.com/1NMemL7.gifv)
 # LusaxWeb
 
