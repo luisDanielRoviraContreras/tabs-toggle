@@ -1,0 +1,19 @@
+{
+  "name": "tabs-toggle",
+  "main": "./lib/tabs-toggle",
+  "version": "0.0.0",
+  "description": "hidden and displays the menu of tabs to have greater visibility of the code",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "tabs-toggle:toggle"
+  },
+  "repository": "https://github.com/atom/tabs-toggle",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
