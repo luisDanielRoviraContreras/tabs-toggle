@@ -2,5 +2,5 @@
 
 hidden and displays the menu of tabs to have greater visibility of the code.
 
-![A screenshot of your package](https://imgur.com/a/9rvpc)
+![](https://imgur.com/a/9rvpc.gif)
 # tabs-toggle
